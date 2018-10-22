@@ -12,12 +12,13 @@
   padding-left: 40px;
 }
 .affilication h1 {
+  margin-top: 40px;
   padding-left: 20px;
   border-left: solid;
   border-left-color: rgb(200, 200, 200);
 }
 .affilication-text li {
-  line-height: 150%;
+  line-height: 200%;
   font-size: 20px;
 }
 .span-course {
