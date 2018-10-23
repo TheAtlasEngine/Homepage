@@ -24,3 +24,23 @@
 .span-course {
   font-weight: bold;
 }
+
+.information {
+  padding: 10px 40px 40px 40px;
+  color: rgb(100, 100, 100);
+}
+.information h1 {
+  margin-top: 40px;
+  padding-left: 20px;
+  border-left: solid;
+  border-left-color: rgb(200, 200, 200);
+}
+.information h2 {
+  margin-left: 40px;
+  padding-left: 20px;
+  border-left: solid;
+  border-left-color: rgb(200, 200, 200);
+}
+.information p {
+  padding-left: 60px;
+}
